@@ -1,6 +1,6 @@
 body {   
     
-    background-image: url("/img/logoBatman.png");   
+    background-image: url("img/logoBatman.png");   
     background-repeat: no-repeat;
     background-position: top center;
 }
@@ -25,13 +25,11 @@ li{
 span{
     font-weight: 100;
 }
-
 footer{
     background: #005677;
     color: #FFFFFF;
     text-align: center;
 }
-footer{
-    background-image: url("/img/ico_instagram.png");
-    background-repeat: no-repeat;
+.iconos{
+    
 }
