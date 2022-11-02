@@ -1,0 +1,37 @@
+body {   
+    
+    background-image: url("/img/logoBatman.png");   
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+h1{
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    background: #C4C4C4;
+    font-style: bold;
+    text-align: center;
+    margin-top: 200px;
+    letter-spacing: 15px;
+}
+h2{
+    color: #005677;
+    background: #C4C4C4;
+    font-family: 'Times New Roman', Times, serif;
+}
+li{
+    font-weight: bold;
+}
+span{
+    font-weight: 100;
+}
+
+footer{
+    background: #005677;
+    color: #FFFFFF;
+    text-align: center;
+}
+footer{
+    background-image: url("/img/ico_instagram.png");
+    background-repeat: no-repeat;
+}
